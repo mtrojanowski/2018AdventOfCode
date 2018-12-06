@@ -1,0 +1,6 @@
+rootProject.name = "2018_advent_calendar"
+include "day1Puzzle1"
+include "day2"
+include "day3"
+include "day4"
+include "puzzles"
